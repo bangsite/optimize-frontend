@@ -1,0 +1,15 @@
+{
+  "name": "web-worker",
+  "version": "1.0.0",
+  "description": "Implement web worker",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bangpx",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
